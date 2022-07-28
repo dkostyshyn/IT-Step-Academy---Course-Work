@@ -1,6 +1,4 @@
-# IT-Step-Academy---Course-Work
-
-!Credentials!
+# Credentials & Info
 
 Серверна частина: 
 Login = Professor, 
